@@ -20,7 +20,7 @@ body {
 }
 
 .card {
-    flex-basis: calc(33.333% - 20px);
+    flex-basis: calc(25% - 20px);
     display: inline-block;
     background-color: #e1b12c;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
